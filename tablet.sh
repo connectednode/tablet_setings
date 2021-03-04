@@ -20,6 +20,7 @@
 
 # stylus
 xsetwacom set "HUION Huion Tablet_H320M stylus" mode Relative
+#xsetwacom set "HUION Huion Tablet_H320M stylus" Area 0 0 45720 25718
 
 # Buttons
 xsetwacom set "HUION Huion Tablet_H320M Pad pad" Button 1 "key +super +ctrl e -ctrl -super"
