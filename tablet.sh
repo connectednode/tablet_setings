@@ -11,7 +11,7 @@
 #		Button 8
 #Button 11	Button 10	Button 12
 #		Button 9
-#		
+#
 #		Button 13
 #
 #		Button 14
@@ -19,7 +19,7 @@
 #		Button 15
 
 # stylus
-xsetwacom set "HUION Huion Tablet_H320M stylus" mode Relative
+xsetwacom set "HUION Huion Tablet_H320M Pen stylus" mode Relative
 #xsetwacom set "HUION Huion Tablet_H320M stylus" Area 0 0 45720 25718
 
 # Buttons
